@@ -1,2 +1,2 @@
 # Predictive Maintenance System
- 
+ In this study, a machine learning-based predictive maintenance model was developed for production lines by using real-time sensor data. By using machine learning algorithms, it is aimed to make an estimation of when the failure will occur before it happens. As a result, the necessary precautions were taken in advance and it contributed to the continuation of the production line without stopping.
